@@ -16,37 +16,6 @@
 - 推荐中国大陆地区的读者，根据如下链接从Gitee平台下载： https://gitee.com/godfanmiao/ML-Kaggle-Gitee-2023
 - 建议港、澳、台，及海外地区的读者，根据如下链接从Github平台下载：https://github.com/godfanmiao/ML-Kaggle-Github-2023
 
-### 2. 作者介绍
 
-范淼 
-[(电子邮箱)](mailto:fanmiao.cslt.thu@gmail.com)[(新浪微博)](https://www.weibo.com/u/2687929943)：
-- 2008年，就读于北京邮电大学软件学院，软件工程专业。
-- 2012年，保送至清华大学计算机系，攻读工学博士学位；研究方向涉及机器学习理论与应用技术。
-- 2015年，受国家留学基金委公派，赴美国纽约大学计算机系联合培养。
-- 2017年，获得清华大学计算机科学与技术工学博士学位。
-- 2019年，百度-清华大学软件学院联合培养博士后出站。
-
-### 3. 书籍目录
-
-<img src="./Images/contents_1.png" width=800px >
-<img src="./Images/contents_2.png" width=800px >
-
-### 4. 购书链接
-
-<img src="./Images/book.jpeg" width=300px >
-
-### 5. 官方微信和QQ群
-<img src="./Images/Wechat.jpg" width=100px > 微信
-<img src="./Images/QQ_group.jpg" width=100px > QQ群
-
-
-### 6. 勘误列表
-
-#### 6.1 代码勘误
-- 请参考本书第9章，统一使用Git工具，pull request到bug-fix分支。
-- 正式代码发布在master分支。
-
-#### 6.2 书籍勘误
-- X页X行，原文“XX”；修改为“XX”。
 
 
