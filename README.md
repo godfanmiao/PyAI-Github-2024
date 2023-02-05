@@ -32,3 +32,14 @@
 - 澳洲国立大学经济学硕士、南开大学经济学学士
 - 获美国、中国发明专利授权2项，GUI外观设计专利授权10项
 
+
+### 3. 书籍目录
+<img src="./Images/contents_1.png" width=500px >
+<img src="./Images/contents_2.png" width=500px >
+
+
+### 4. 购书链接
+<img src="./Images/book.jpeg" width=500px >
+
+### 5. 书友QQ群
+<img src="./Images/QQ_group.png" width=500px >
