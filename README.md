@@ -2,9 +2,9 @@
 
 ### 1. 全书概要
 
-《Python机器学习及实践：从零开始通往Kaggle竞赛之路（2024年度版）》一书适合所有对人工智能（Artificial Intelligence）领域，特别是机器学习（Machine Learning）、数据挖掘（Data Mining），以及自然语言处理（Natural Language Processing）等技术与实践感兴趣的初学者；也可以作为国家人工智能工程技术的职业教育培训、省市级人工智能专业的职称评定，以及注册数据分析师认证（CDA、CPDA）等的参考书目。
+《Python机器学习及实践：从零开始通往Kaggle竞赛之路（2024年度版）》一书适合所有对人工智能（Artificial Intelligence）领域，特别是对机器学习（Machine Learning）、数据挖掘（Data Mining）、计算机视觉（Computer Vision），以及自然语言处理（Natural Language Processing）等技术与实践感兴趣的初学者；也可以作为国家人工智能工程技术的职业教育培训、省市级人工智能专业的职称评定，以及注册数据分析师认证（CDA、CPDA）等的参考书目。
 
-本书以Python 3.x编程语言为基础，在不赘述大量数学模型与复杂编程知识的前提下，从零开始带领广大读者，逐步熟悉并且掌握当下最流行的基于Python的数据分析，以及支持单机、深度和分布式机器学习的开源程序库。这些热门的Python程序库包括：Pandas、Scikit-learn、PyTorch、TensorFlow、PaddlePaddle、PySpark-ML等。
+本书以Python3编程语言为基础，在不赘述大量数学模型与复杂编程知识的前提下，从零开始带领广大读者，逐步熟悉并且掌握当下最流行的基于Python的数据分析，以及支持单机、深度和分布式机器学习的开源程序库。这些热门的Python程序库包括：Pandas、Scikit-learn、PyTorch、TensorFlow、PaddlePaddle、PySpark-ML等。
 
 全书共包括四大核心篇章，分别是：
 - 入门篇：包括对全书核心概念的指南性介绍，以及在多种主流操作系统（Windows、MacOS，以及Ubuntu）上如何配置基本编程环境的详细说明。
@@ -20,7 +20,7 @@
 ### 2. 作者介绍
 
 #### 范淼 [(个人主页)](https://godfanmiao.github.io/homepage/)：
-- 北京市高级工程师（副高级职称）
+- 北京市测绘高级工程师（副高级职称）
 - 四维图新集团地图中心专家
 - 中国人民大学信息资源管理学院研究生行业导师
 - 清华大学软件学院博士后、计算机系工学博士
