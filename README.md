@@ -39,7 +39,7 @@
 
 
 ### 4. 购书链接
-<img src="./Images/book.jpeg" width=500px >
+<img src="./Images/book.jpg" width=500px >
 
 ### 5. 书友QQ群
 <img src="./Images/QQ_group.png" width=500px >
