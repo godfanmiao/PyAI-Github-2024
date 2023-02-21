@@ -36,7 +36,7 @@
 
 
 ### 3. 书籍目录
-<img src="./Images/contents_1.png" width=500px >
+<img src="./Images/contents_1.png" width=900px >
 <img src="./Images/contents_2.png" width=500px >
 
 
