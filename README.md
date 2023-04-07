@@ -1,8 +1,8 @@
-## 《Python机器学习及实践：从零开始通往Kaggle竞赛之路（2024年度版）》
+## 《Python人工智能编程实践（2024年度版）》
 
 ### 1. 全书概要
 
-《Python机器学习及实践：从零开始通往Kaggle竞赛之路（2024年度版）》一书适合所有对人工智能（Artificial Intelligence）领域，特别是对机器学习（Machine Learning）、数据挖掘（Data Mining）、计算机视觉（Computer Vision），以及自然语言处理（Natural Language Processing）等技术的原理与实践感兴趣的初学者；也可以作为国家人工智能工程技术的职业教育培训、各省级人工智能专业职称评定，以及注册数据分析师认证（CDA、CPDA）等的参考书目。
+《Python人工智能编程实践（2024年度版）》（英文书名：《AI Programming with Python in Practice (2024 Edition)》）一书适合所有对人工智能（Artificial Intelligence）领域，特别是对机器学习（Machine Learning）、数据挖掘（Data Mining）、计算机视觉（Computer Vision），以及自然语言处理（Natural Language Processing）等技术的原理与实践感兴趣的初学者；也可以作为国家人工智能工程技术的职业教育培训、各省级人工智能专业职称评定，以及注册数据分析师认证（CDA、CPDA）等的参考书目。
 
 在大数据时代，只要是与数据相关的从业人员，掌握Python编程、数据分析、乃至机器学习的能力，都是一个不错的职业加分项。不论是在金融、统计、数理研究、物理计算、社会科学、工业工程等领域的从业者；还是在互联网行业的程序员、数据分析师、运营人员、产品经理等，都会对本书有着不同程度的学习需求。
 
