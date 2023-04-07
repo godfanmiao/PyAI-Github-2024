@@ -2,7 +2,7 @@
 
 ### 1. 全书概要
 
-《Python人工智能编程实践（2024年度版）》（英文书名：《AI Programming with Python in Practice (2024 Edition)》）一书适合所有对人工智能（Artificial Intelligence）领域，特别是对机器学习（Machine Learning）、数据挖掘（Data Mining）、计算机视觉（Computer Vision），以及自然语言处理（Natural Language Processing）等技术的原理与实践感兴趣的初学者；也可以作为国家人工智能工程技术的职业教育培训、各省级人工智能专业职称评定，以及注册数据分析师认证（CDA、CPDA）等的参考书目。
+《Python人工智能编程实践（2024年度版）》（英文书名：《AI Programming with Python in Practice (2024 Edition)》）适合所有对人工智能（Artificial Intelligence）领域，特别是对机器学习（Machine Learning）、数据挖掘（Data Mining）、计算机视觉（Computer Vision），以及自然语言处理（Natural Language Processing）等技术的原理与实践感兴趣的初学者；也可以作为国家人工智能工程技术的职业教育培训、各省级人工智能专业职称评定，以及注册数据分析师认证（CDA、CPDA）等的参考书目。
 
 在大数据时代，只要是与数据相关的从业人员，掌握Python编程、数据分析、乃至机器学习的能力，都是一个不错的职业加分项。不论是在金融、统计、数理研究、物理计算、社会科学、工业工程等领域的从业者；还是在互联网行业的程序员、数据分析师、运营人员、产品经理等，都会对本书有着不同程度的学习需求。
 
@@ -15,8 +15,8 @@
 - 实践篇：利用全书所讲授的Python编程、数据分析，以及机器学习知识，从事Kaggle多种类型的竞赛实战。同时，介绍如何使用Git在Gitee与Github平台上维护和管理日常代码与编程项目。
 
 全书基于Python3的所有实践代码和数据均已分别开源在Gitee和Github平台：
-- 中国大陆地区的读者，推荐从Gitee平台下载： https://gitee.com/godfanmiao/ML-Kaggle-Gitee-2024
-- 港、澳、台，及海外地区的读者，建议从Github平台下载：https://github.com/godfanmiao/ML-Kaggle-Github-2024
+- 中国大陆地区的读者，推荐从Gitee平台下载： https://gitee.com/godfanmiao/PyAI-Gitee-2024
+- 港、澳、台，及海外地区的读者，建议从Github平台下载：https://github.com/godfanmiao/PyAI-Github-2024
 
 
 ### 2. 作者介绍
@@ -33,22 +33,3 @@
 - 互联网软件行业高级产品经理
 - 澳洲国立大学经济学硕士、南开大学经济学学士
 - 获美国、中国发明专利授权2项，GUI外观设计专利授权10项
-
-
-### 3. 书籍目录
-<img src="./Images/contents/contents-01.png" width=900px >
-<img src="./Images/contents/contents-02.png" width=900px >
-<img src="./Images/contents/contents-03.png" width=900px >
-<img src="./Images/contents/contents-04.png" width=900px >
-<img src="./Images/contents/contents-05.png" width=900px >
-<img src="./Images/contents/contents-06.png" width=900px >
-<img src="./Images/contents/contents-07.png" width=900px >
-<img src="./Images/contents/contents-08.png" width=900px >
-<img src="./Images/contents/contents-09.png" width=900px >
-<img src="./Images/contents/contents-10.png" width=900px >
-
-### 4. 购书链接
-<img src="./Images/book.jpg" width=900px >
-
-### 5. 书友QQ群
-<img src="./Images/QQ_group.png" width=900px >
