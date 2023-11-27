@@ -21,7 +21,7 @@
 
 ### 2. 作者介绍
 
-#### 范淼 [(个人主页)](https://godfanmiao.github.io/homepage/)：
+#### 范淼 [(个人主页)](https://godfanmiao.github.io/homepage-zh/)：
 - 四维图新集团（专家级）领军人才；高级工程师（职称：副高）
 - 中国人民大学信息资源管理学院专业硕士导师
 - 电子学会会员、测绘学会会员
